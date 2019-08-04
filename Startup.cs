@@ -9,6 +9,11 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using MvcMovie.Models;
+using Microsoft.EntityFrameworkCore;
+
+
+
 
 namespace MvcMovie
 {
@@ -29,9 +34,13 @@ namespace MvcMovie
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
+
             });
 
 
+            services.AddDbContext<MvcMovieContext>(options =>
+                options.UseSqlite(Configuration.GetConnectionString("MovieContext")));
+                
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

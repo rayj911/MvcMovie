@@ -28,3 +28,10 @@ D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Mvc
 D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.dll
 D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
+D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Delete.g.cshtml.cs
+D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+D:\Work\AppDev\GIT\GITLearningLabs\mvcmovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
